@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="810" viewBox="0 0 1080 810">
+  <title>Blank HELLO my name is name tag</title>
+  <!-- The Share template for the meme maker. The name and the "sold at" figure are drawn on top by the maker
+       (text boxes in coin.config.js), so this file stays blank. HELLO is drawn as paths: an SVG loaded as an image
+       can't use web fonts, and paths look the same everywhere. -->
+  <rect width="1080" height="810" fill="#F2EFE6"/>
+  <rect x="74" y="66" width="960" height="680" rx="46" fill="#E4DFD2"/>
+  <rect x="60" y="50" width="960" height="680" rx="46" fill="#E12B31"/>
+  <rect x="60" y="300" width="960" height="370" fill="#FFFFFF"/>
+  <g fill="#FFFFFF">
+    <path d="M283 86h30v46h36v-46h30v120h-30v-46h-36v46h-30z"/>
+    <path d="M399 86h78v28h-48v18h40v28h-40v18h48v28h-78z"/>
+    <path d="M497 86h30v92h44v28h-74z"/>
+    <path d="M591 86h30v92h44v28h-74z"/>
+    <path fill-rule="evenodd" d="M685 146a56 60 0 1 0 112 0a56 60 0 1 0-112 0zM715 146a26 32 0 1 1 52 0a26 32 0 1 1-52 0z"/>
+    <text x="540" y="266" text-anchor="middle" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-weight="700" font-size="50" letter-spacing="1">my name is</text>
+  </g>
+  <text x="575" y="617" text-anchor="end" fill="#141414" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-weight="700" font-size="40">and I sold at</text>
+</svg>
